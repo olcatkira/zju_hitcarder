@@ -3,6 +3,7 @@
 
 forked from [Tishacy/ZJU-nCov-Hitcarder](https://github.com/Tishacy/ZJU-nCov-Hitcarder)
 
+10.17 更新了下表单文件
 
  - 使用 Github Actions 实现定时打卡，无需本地运行或部署在VPS
  - 打卡完成后可发送打卡成功或失败的微信/钉钉消息
